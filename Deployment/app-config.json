@@ -1,0 +1,9 @@
+{
+	"command": "java -jar SpringAPI-0.0.1-SNAPSHOT.jar",
+	"buildPath": "D:\\Youtube\\Creations\\51 How to Host Java Backend\\SpringAPI1\\Deployment",
+	"stack": "java17",
+	"env_variables": {},
+	"memory": 256,
+	"scripts": {},
+	"platform": "javase"
+}

@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "54000000014023",
+      "name": "youtubetest",
+      "domain": {
+        "id": "50018327025",
+        "name": "youtubetest-60013940450.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60013940450",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
